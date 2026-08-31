@@ -3,21 +3,15 @@
 > This repository publishes **measured benchmark data only** — no source code.
 > All numbers below come from independently verified test runs (SHA-pinned artifacts, third-party re-judged).
 
-## FRT Projects
+## FRT Projects (with releases)
 
-| Project | Repository |
-|---|---|
-| FRT-AI-Rein | https://github.com/januspater630/FRT-AI-Rein |
-| FRT-Memory-Vault | https://github.com/januspater630/FRT-Memory-Vault |
-| FRT-Everitas-AI | https://github.com/januspater630/FRT-Everitas-AI |
-| FRT-CFNS | https://github.com/januspater630/FRT-CFNS |
-| FRT-SafeFS-Release | https://github.com/januspater630/FRT-SafeFS-Release |
-| FRT-Cosmic-Encryption | https://github.com/januspater630/FRT-Cosmic-Encryption |
-| Factor-recursion-theory | https://github.com/januspater630/Factor-recursion-theory |
-| Janus-Vault | https://github.com/januspater630/Janus-Vault |
-| Janus-Vault-Apple | https://github.com/januspater630/Janus-Vault-Apple |
-| JanusShieldHaven | https://github.com/januspater630/JanusShieldHaven |
-| janus-file-security | https://github.com/januspater630/janus-file-security |
+| Project | Repository | Releases |
+|---|---|---|
+| FRT-Everitas-AI | https://github.com/januspater630/FRT-Everitas-AI | 5 |
+| FRT-CFNS | https://github.com/januspater630/FRT-CFNS | 2 |
+| FRT-Cosmic-Encryption | https://github.com/januspater630/FRT-Cosmic-Encryption | 1 |
+| Janus-Vault | https://github.com/januspater630/Janus-Vault | 1 |
+| FRT-Memory-Vault | https://github.com/januspater630/FRT-Memory-Vault | 1 |
 
 ## Core Verified Metrics
 
