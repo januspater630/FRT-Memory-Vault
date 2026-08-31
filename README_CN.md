@@ -3,21 +3,15 @@
 > 本仓库只发布**实测基准数据**，不含任何源代码。
 > 所有数据来自独立验证的测试运行（SHA 固定产物 + 第三方复核判据）。
 
-## FRT 项目一览
+## FRT 项目一览（有发布资产）
 
-| 项目 | 仓库 |
-|---|---|
-| FRT-AI-Rein | https://github.com/januspater630/FRT-AI-Rein |
-| FRT-Memory-Vault | https://github.com/januspater630/FRT-Memory-Vault |
-| FRT-Everitas-AI | https://github.com/januspater630/FRT-Everitas-AI |
-| FRT-CFNS | https://github.com/januspater630/FRT-CFNS |
-| FRT-SafeFS-Release | https://github.com/januspater630/FRT-SafeFS-Release |
-| FRT-Cosmic-Encryption | https://github.com/januspater630/FRT-Cosmic-Encryption |
-| Factor-recursion-theory | https://github.com/januspater630/Factor-recursion-theory |
-| Janus-Vault | https://github.com/januspater630/Janus-Vault |
-| Janus-Vault-Apple | https://github.com/januspater630/Janus-Vault-Apple |
-| JanusShieldHaven | https://github.com/januspater630/JanusShieldHaven |
-| janus-file-security | https://github.com/januspater630/janus-file-security |
+| 项目 | 仓库 | Release 数 |
+|---|---|---|
+| FRT-Everitas-AI | https://github.com/januspater630/FRT-Everitas-AI | 5 |
+| FRT-CFNS | https://github.com/januspater630/FRT-CFNS | 2 |
+| FRT-Cosmic-Encryption | https://github.com/januspater630/FRT-Cosmic-Encryption | 1 |
+| Janus-Vault | https://github.com/januspater630/Janus-Vault | 1 |
+| FRT-Memory-Vault | https://github.com/januspater630/FRT-Memory-Vault | 1 |
 
 ## 核心已验证指标
 
