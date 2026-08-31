@@ -3,15 +3,13 @@
 > This repository publishes **measured benchmark data only** — no source code.
 > All numbers below come from independently verified test runs (SHA-pinned artifacts, third-party re-judged).
 
-## FRT Projects (with releases)
+## FRT Projects
 
-| Project | Repository | Releases |
-|---|---|---|
-| FRT-Everitas-AI | https://github.com/januspater630/FRT-Everitas-AI | 5 |
-| FRT-CFNS | https://github.com/januspater630/FRT-CFNS | 2 |
-| FRT-Cosmic-Encryption | https://github.com/januspater630/FRT-Cosmic-Encryption | 1 |
-| Janus-Vault | https://github.com/januspater630/Janus-Vault | 1 |
-| FRT-Memory-Vault | https://github.com/januspater630/FRT-Memory-Vault | 1 |
+| Project | Repository |
+|---|---|
+| FRT-Everitas-AI | https://github.com/januspater630/FRT-Everitas-AI |
+| FRT-CFNS | https://github.com/januspater630/FRT-CFNS |
+| FRT-Memory-Vault | https://github.com/januspater630/FRT-Memory-Vault |
 
 ## Core Verified Metrics
 
