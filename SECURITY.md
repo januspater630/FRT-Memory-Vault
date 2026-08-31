@@ -10,11 +10,11 @@ Please do **not** disclose vulnerabilities publicly before they have been addres
 
 ## Scope
 
-- `src/` — compressor / judge / traces scripts (FRT Memory Vault v1.0)
-- Build artifacts attached to GitHub Releases
+- This repository publishes **benchmark data and documentation only** — no source code.
+- No executable artifacts are hosted here.
 
 ## Notes
 
-- All scripts are designed to process **local, trusted files only**.
-- The `zlib.decompress()` call in `src/_t02_judge.py` has no explicit `max_length` limit;
-  do **not** feed untrusted data into the judge without adding a decompression bound.
+- All data published in this repository comes from independently verified test runs
+  (SHA-pinned artifacts, third-party re-judged).
+- For partnership inquiries or verified benchmark details, please open an issue.
