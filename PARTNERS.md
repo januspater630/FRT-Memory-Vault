@@ -5,15 +5,13 @@ high-density storage, character-level lossless restoration (>=99%), and precisio
 
 We are looking for partners to run joint benchmarks on real AI/log/text workloads.
 
-## FRT Projects (with releases)
+## FRT Projects
 
-| Project | Repository | Releases |
-|---|---|---|
-| FRT-Everitas-AI | https://github.com/januspater630/FRT-Everitas-AI | 5 |
-| FRT-CFNS | https://github.com/januspater630/FRT-CFNS | 2 |
-| FRT-Cosmic-Encryption | https://github.com/januspater630/FRT-Cosmic-Encryption | 1 |
-| Janus-Vault | https://github.com/januspater630/Janus-Vault | 1 |
-| FRT-Memory-Vault | https://github.com/januspater630/FRT-Memory-Vault | 1 |
+| Project | Repository |
+|---|---|
+| FRT-Everitas-AI | https://github.com/januspater630/FRT-Everitas-AI |
+| FRT-CFNS | https://github.com/januspater630/FRT-CFNS |
+| FRT-Memory-Vault | https://github.com/januspater630/FRT-Memory-Vault |
 
 ## Potential Partners
 
